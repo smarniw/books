@@ -1,13 +1,13 @@
 #+TODO: TO-READ READING | DONE-READING
 
 * Lewis Caroll
-** [[http://80.82.78.13/get.php?md5=fdd608ca4c0ceff3734e535cca8436a8&key=NB88BMR0SJ7EU4CE&mirr=1][Alice in Wonderland]]
+** [[https://www.goodreads.com/book/show/6324090-alice-s-adventures-in-wonderland][Alice in Wonderland]]
 * Anne Frank
 ** The Diary of a Young Girl
 * Ayn Rand
 ** The Fountainhead
 * Charles Bukowski
-** [[http://80.82.78.13/get.php?md5=3ff228b7b4369167db897144dfa6ab19&key=CWZMYW3MTLVSQVN6&mirr=1][Ham on Rye]]
+** [[https://www.goodreads.com/book/show/38501.Ham_on_Rye?from_search=true&from_srp=true&qid=VlAOtcAJQi&rank=1][Ham on Rye]]
 * Emily Bronte
 * F. Scott Fitzgerald
 ** The Great Gatsby
